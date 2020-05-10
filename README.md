@@ -16,3 +16,10 @@ Shader code [HolisticRimCutoffOutlines.shader](HolisticRimCutoffOutlines.shader)
 Shader code [HolisticRimCutoffStripes.shader](HolisticRimCutoffStripes.shader)
 
 <img src="images/bunny_rim_cutoff_stripes.png" width="320" height="220"/> ![](images/bunny_rim_cutoff_stripes.gif)
+
+## Lesson 29. Blinn-Phong Lighting & Surface Output
+
+Shader code [HolisticBasicLambert.shader](HolisticBasicLambert.shader)
+Shader code [HolisticBasicBlinn.shader](HolisticBasicBlinn.shader)
+
+<img src="images/bunny_lamber_and_blinn.png" width="320" height="220"/> ![](images/bunny_lamber_and_blinn.gif)
