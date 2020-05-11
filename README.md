@@ -20,6 +20,7 @@ Shader code [HolisticRimCutoffStripes.shader](HolisticRimCutoffStripes.shader)
 ## Lesson 29. Blinn-Phong Lighting & Surface Output
 
 Shader code [HolisticBasicLambert.shader](HolisticBasicLambert.shader)
+
 Shader code [HolisticBasicBlinn.shader](HolisticBasicBlinn.shader)
 
 <img src="images/bunny_lamber_and_blinn.png" width="320" height="220"/> ![](images/bunny_lamber_and_blinn.gif)
@@ -27,6 +28,7 @@ Shader code [HolisticBasicBlinn.shader](HolisticBasicBlinn.shader)
 ## Lesson 30. Physically-Based Rendering
 
 Shader code [HolisticStandartPBR.shader](HolisticStandartPBR.shader)
+
 Shader code [HolisticStandartPBRSpec.shader](HolisticStandartPBRSpec.shader)
 
 <img src="images/bunny_pbr.png" width="320" height="220"/> ![](images/bunny_pbr.gif)
