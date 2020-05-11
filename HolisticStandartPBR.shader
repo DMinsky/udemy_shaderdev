@@ -26,7 +26,7 @@
 		half      _Emission;
 
 		void surf( Input IN, inout SurfaceOutputStandard o ) {
-			o.Albedo   = _Color.rgb;
+			o.Albedo = _Color.rgb;
 			float smoothness = tex2D( _SmoothnessTex, IN.uv_SmoothnessTex ).r;
 			o.Smoothness = smoothness;
 			o.Metallic = _Metallic;
