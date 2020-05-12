@@ -32,3 +32,9 @@ Shader code [HolisticStandartPBR.shader](HolisticStandartPBR.shader)
 Shader code [HolisticStandartPBRSpec.shader](HolisticStandartPBRSpec.shader)
 
 <img src="images/bunny_pbr.png" width="320" height="220"/> ![](images/bunny_pbr.gif)
+
+## Lesson 33. Writing Your Own Lighting Model
+
+Shader code [HolisticCustomLambertLighting.shader](HolisticCustomLambertLighting.shader)
+
+<img src="images/bunny_custom_lambert.png" width="320" height="220"/> ![](images/bunny_custom_lambert.gif)
