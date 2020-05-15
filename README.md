@@ -38,3 +38,7 @@ Shader code [HolisticStandartPBRSpec.shader](HolisticStandartPBRSpec.shader)
 Shader code [HolisticCustomLambertLighting.shader](HolisticCustomLambertLighting.shader)
 
 <img src="images/bunny_custom_lambert.png" width="320" height="220"/> ![](images/bunny_custom_lambert.gif)
+
+Shader code [HolisticCustomBlinnLighting.shader](HolisticCustomBlinnLighting.shader)
+
+<img src="images/bunny_custom_blinn.png" width="320" height="220"/> ![](images/bunny_custom_blinn.gif)
