@@ -42,3 +42,7 @@ Shader code [HolisticCustomLambertLighting.shader](HolisticCustomLambertLighting
 Shader code [HolisticCustomBlinnLighting.shader](HolisticCustomBlinnLighting.shader)
 
 <img src="images/bunny_custom_blinn.png" width="320" height="220"/> ![](images/bunny_custom_blinn.gif)
+
+Shader code [HolisticCustomRampLighting.shader](HolisticCustomRampLighting.shader)
+
+<img src="images/bunny_ramp.png" width="320" height="220"/> ![](images/bunny_ramp.gif)
