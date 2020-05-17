@@ -53,13 +53,7 @@ Shader code [HolisticBasicLambertAlpha.shader](HolisticBasicLambertAlpha.shader)
 
 <img src="images/basic_alpha_lambert.png" width="320" height="220"/> <img src="images/basic_alpha_lambert_wireframe.png" width="320" height="220"/>
 
-## Lesson 37. The Alpha Channel
-
-Shader code [HolisticBasicLambertAlpha.shader](HolisticBasicLambertAlpha.shader)
-
-<img src="images/basic_alpha_lambert.png" width="320" height="220"/> <img src="images/basic_alpha_lambert_wireframe.png" width="320" height="220"/>
-
-## Lesson 38. Holograms
+## Lesson 37. Holograms
 
 Shader code [HolisticHologram.shader](HolisticHologram.shader)
 
