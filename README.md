@@ -64,3 +64,9 @@ Shader code [HolisticHologram.shader](HolisticHologram.shader)
 Shader code [HolisticAlphaBlendOneOne.shader](HolisticAlphaBlendOneOne.shader)
 
 <img src="images/alphablend_one_one.png" width="320" height="220"/> <img src="images/alphablend_one_one_source.png" width="320" height="220"/>
+
+## Lesson 39. Leaves and Culling
+
+Shader code [HolisticTransparentCullOff.shader](HolisticTransparentCullOff.shader)
+
+<img src="images/alpha_cull_off.png" width="320" height="220"/> <img src="images/alpha_cull_off_source.png" width="320" height="220"/>
