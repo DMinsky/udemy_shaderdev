@@ -15,7 +15,7 @@
 
 		struct Input
 		{
-			float3 uv_RampTex;
+			float2 uv_RampTex;
 			float3 viewDir;
 			float3 worldNormal;
 		};

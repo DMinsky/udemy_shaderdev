@@ -15,7 +15,7 @@
 
 		struct Input
 		{
-			float3 uv_RampTex;
+			float2 uv_RampTex;
 		};
 
 		void surf( Input IN, inout SurfaceOutput o ) {

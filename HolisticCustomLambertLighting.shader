@@ -19,7 +19,7 @@
 
 		struct Input
 		{
-			float3 uv_MainTex;
+			float2 uv_MainTex;
 		};
 
 		float4 _Color;
