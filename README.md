@@ -58,3 +58,9 @@ Shader code [HolisticBasicLambertAlpha.shader](HolisticBasicLambertAlpha.shader)
 Shader code [HolisticHologram.shader](HolisticHologram.shader)
 
 <img src="images/bunny_hologram.png" width="320" height="220"/> ![](images/bunny_hologram.gif)
+
+## Lesson 38. Blending
+
+Shader code [HolisticAlphaBlendOneOne.shader](HolisticAlphaBlendOneOne.shader)
+
+<img src="images/alphablend_one_one.png" width="320" height="220"/> <img src="images/alphablend_one_one_source.png" width="320" height="220"/>
