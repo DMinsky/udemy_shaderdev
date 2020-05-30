@@ -76,3 +76,10 @@ Shader code [HolisticTransparentCullOff.shader](HolisticTransparentCullOff.shade
 Shader code [HolisticBasicTextureDecal.shader](HolisticBasicTextureDecal.shader)
 
 <img src="images/bunny_decal_on.png" width="320" height="220"/> <img src="images/bunny_decal_off.png" width="320" height="220"/>
+
+## Lesson 41. Stencil Buffer
+
+Shader code [HolisticStencilHole.shader](HolisticStencilHole.shader)
+Shader code [HolisticStencilBasicLambert.shader](HolisticStencilBasicLambert.shader)
+
+<img src="images/bunny_simple_stencil.png" width="320" height="220"/> ![](images/bunny_simple_stencil.gif)
