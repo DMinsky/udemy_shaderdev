@@ -2,6 +2,9 @@
 
 	Properties {
 		_MainTex ( "Main Texture", 2D ) = "white" {}
+		_StencilRef ( "Stencil Ref", Float ) = 1
+		[Enum(UnityEngine.Rendering.CompareFunction)] _CompFunc ( "Compare Func", Float ) = 8
+		[Enum(UnityEngine.Rendering.StencilOp)] _StencilOp ( "Stencil Operation", Float ) = 2
 	}
 
 	SubShader {
@@ -13,9 +16,9 @@
 		ZWrite Off
 
 		Stencil {
-			Ref 1
-			Comp Always
-			Pass Replace
+			Ref [_StencilRef]
+			Comp [_CompFunc]
+			Pass [_StencilOp]
 		}
 
 		CGPROGRAM

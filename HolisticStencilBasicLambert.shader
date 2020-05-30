@@ -2,13 +2,16 @@
 
 	Properties {
 		_MainTex ( "Main Texture", 2D ) = "white" {}
+		_StencilRef ( "Stencil Ref", Float ) = 1
+		[Enum(UnityEngine.Rendering.CompareFunction)] _CompFunc ( "Compare Func", Float ) = 3
+		[Enum(UnityEngine.Rendering.StencilOp)] _StencilOp ( "Stencil Operation", Float ) = 0
 	}
 
 	SubShader {
 		Stencil {
-			Ref 1
-			Comp NotEqual
-			Pass Keep
+			Ref [_StencilRef]
+			Comp [_CompFunc]
+			Pass [_StencilOp]
 		}
 		
 		CGPROGRAM

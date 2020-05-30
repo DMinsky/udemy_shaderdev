@@ -80,6 +80,15 @@ Shader code [HolisticBasicTextureDecal.shader](HolisticBasicTextureDecal.shader)
 ## Lesson 41. Stencil Buffer
 
 Shader code [HolisticStencilHole.shader](HolisticStencilHole.shader)
+
 Shader code [HolisticStencilBasicLambert.shader](HolisticStencilBasicLambert.shader)
 
 <img src="images/bunny_simple_stencil.png" width="320" height="220"/> ![](images/bunny_simple_stencil.gif)
+
+## Lesson 42. Advanced Stencils
+
+Shader code [HolisticStencilHole.shader](HolisticStencilHole.shader)
+
+Shader code [HolisticStencilBasicLambert.shader](HolisticStencilBasicLambert.shader)
+
+<img src="images/stencil_box.png" width="320" height="220"/> ![](images/stencil_box.gif)
