@@ -70,3 +70,9 @@ Shader code [HolisticAlphaBlendOneOne.shader](HolisticAlphaBlendOneOne.shader)
 Shader code [HolisticTransparentCullOff.shader](HolisticTransparentCullOff.shader)
 
 <img src="images/alpha_cull_off.png" width="320" height="220"/> <img src="images/alpha_cull_off_source.png" width="320" height="220"/>
+
+## Lesson 40. Blending Two Images
+
+Shader code [HolisticBasicTextureDecal.shader](HolisticBasicTextureDecal.shader)
+
+<img src="images/bunny_decal_on.png" width="320" height="220"/> <img src="images/bunny_decal_off.png" width="320" height="220"/>
