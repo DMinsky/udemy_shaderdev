@@ -92,3 +92,11 @@ Shader code [HolisticStencilHole.shader](HolisticStencilHole.shader)
 Shader code [HolisticStencilBasicLambert.shader](HolisticStencilBasicLambert.shader)
 
 <img src="images/stencil_box.png" width="320" height="220"/> ![](images/stencil_box.gif)
+
+## Lesson 44. Colouring by Vertices and Fragments
+
+Shader code [HolisticColorVertexGradient.shader](HolisticColorVertexGradient.shader)
+
+Shader code [HolisticColorFragmentGradient.shader](HolisticColorFragmentGradient.shader)
+
+<img src="images/gradient_vertex.png" width="320" height="220"/> <img src="images/gradient_fragment.png" width="320" height="220"/>
