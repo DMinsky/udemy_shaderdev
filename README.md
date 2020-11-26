@@ -100,3 +100,9 @@ Shader code [HolisticColorVertexGradient.shader](HolisticColorVertexGradient.sha
 Shader code [HolisticColorFragmentGradient.shader](HolisticColorFragmentGradient.shader)
 
 <img src="images/gradient_vertex.png" width="320" height="220"/> <img src="images/gradient_fragment.png" width="320" height="220"/>
+
+## Lesson 45. Material Use
+
+Shader code [HolisticGrabPassSinUV.shader](HolisticGrabPassSinUV.shader)
+
+<img src="images/grab_pass_sin_uv.png" width="320" height="220"/> ![](images/grab_pass_sin_uv.gif)
