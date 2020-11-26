@@ -1,4 +1,4 @@
-﻿Shader "Unlit/GrabPassSinUV"
+﻿Shader "Holistic/GrabPassSinUV"
 {
     Properties
     {
