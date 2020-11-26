@@ -106,3 +106,9 @@ Shader code [HolisticColorFragmentGradient.shader](HolisticColorFragmentGradient
 Shader code [HolisticGrabPassSinUV.shader](HolisticGrabPassSinUV.shader)
 
 <img src="images/grab_pass_sin_uv.png" width="320" height="220"/> ![](images/grab_pass_sin_uv.gif)
+
+## Lesson 46. Lighting
+
+Shader code [HolisticCustomVertexLambert.shader](HolisticCustomVertexLambert.shader)
+
+<img src="images/custom_vertex_lambert.png" width="320" height="220"/> ![](images/custom_vertex_lambert.gif)
