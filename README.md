@@ -119,12 +119,6 @@ Shader code [HolisticVFDiffuseShadow.shader](HolisticVFDiffuseShadow.shader)
 
 <img src="images/bunny_shadow.png" width="320" height="220"/> ![](images/bunny_shadow.gif)
 
-## Lesson 47. Shadows
-
-Shader code [HolisticVFDiffuseShadow.shader](HolisticVFDiffuseShadow.shader)
-
-<img src="images/bunny_shadow.png" width="320" height="220"/> ![](images/bunny_shadow.gif)
-
 ## Lesson 48. Challenge 1 
 
 Shader code [HolisticVFTextureVertexColor.shader](HolisticVFTextureVertexColor.shader)
