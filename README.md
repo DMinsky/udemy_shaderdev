@@ -112,3 +112,9 @@ Shader code [HolisticGrabPassSinUV.shader](HolisticGrabPassSinUV.shader)
 Shader code [HolisticCustomVertexLambert.shader](HolisticCustomVertexLambert.shader)
 
 <img src="images/custom_vertex_lambert.png" width="320" height="220"/> ![](images/custom_vertex_lambert.gif)
+
+## Lesson 47. Shadows
+
+Shader code [HolisticVFDiffuseShadow.shader](HolisticVFDiffuseShadow.shader)
+
+<img src="images/bunny_shadow.png" width="320" height="220"/> ![](images/bunny_shadow.gif)
