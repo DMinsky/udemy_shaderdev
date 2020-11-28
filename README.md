@@ -126,3 +126,9 @@ Shader code [HolisticVFTextureVertexColor.shader](HolisticVFTextureVertexColor.s
 Shader code [HolisticVFVertexCoordColor.shader](HolisticVFVertexCoordColor.shader)
 
 <img src="images/diffuse_vertex_mix.png" width="320" height="220"/> ![](images/diffuse_vertex_mix.gif)
+
+## Lesson 49. Challenge 2
+
+Shader code [HolisticVFDiffuseShadowRed.shader](HolisticVFDiffuseShadowRed.shader)
+
+<img src="images/red_shadow.png" width="320" height="220"/> ![](images/red_shadow.gif)
