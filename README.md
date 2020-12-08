@@ -132,3 +132,9 @@ Shader code [HolisticVFVertexCoordColor.shader](HolisticVFVertexCoordColor.shade
 Shader code [HolisticVFDiffuseShadowRed.shader](HolisticVFDiffuseShadowRed.shader)
 
 <img src="images/red_shadow.png" width="320" height="220"/> ![](images/red_shadow.gif)
+
+## Lesson 50. Vertex Extruding
+
+Shader code [HolisticExtrude.shader](HolisticExtrude.shader)
+
+<img src="images/bunny_extrude.png" width="320" height="220"/> ![](images/bunny_extrude.gif)
