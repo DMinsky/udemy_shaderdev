@@ -138,3 +138,10 @@ Shader code [HolisticVFDiffuseShadowRed.shader](HolisticVFDiffuseShadowRed.shade
 Shader code [HolisticExtrude.shader](HolisticExtrude.shader)
 
 <img src="images/bunny_extrude.png" width="320" height="220"/> ![](images/bunny_extrude.gif)
+
+## Lesson 51. Outlining
+
+Shader code [HolisticSimpleOutline.shader](HolisticSimpleOutline.shader)
+Shader code [HolisticAdvancedOutline.shader](HolisticAdvancedOutline.shader)
+
+<img src="images/bunny_outline.png" width="320" height="220"/> ![](images/bunny_outline.gif)
