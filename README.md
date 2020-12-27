@@ -145,3 +145,9 @@ Shader code [HolisticSimpleOutline.shader](HolisticSimpleOutline.shader)
 Shader code [HolisticAdvancedOutline.shader](HolisticAdvancedOutline.shader)
 
 <img src="images/bunny_outline.png" width="320" height="220"/> ![](images/bunny_outline.gif)
+
+## Lesson 51. Glass
+
+Shader code [Glass.shader](Glass.shader)
+
+<img src="images/glass.png" width="320" height="220"/> ![](images/glass.gif)
