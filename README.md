@@ -148,6 +148,6 @@ Shader code [HolisticAdvancedOutline.shader](HolisticAdvancedOutline.shader)
 
 ## Lesson 51. Glass
 
-Shader code [Glass.shader](Glass.shader)
+Shader code [HolisticGlass.shader](HolisticGlass.shader)
 
 <img src="images/glass.png" width="320" height="220"/> ![](images/glass.gif)
