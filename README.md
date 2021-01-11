@@ -157,3 +157,9 @@ Shader code [HolisticGlass.shader](HolisticGlass.shader)
 Shader code [HolisticWaves.shader](HolisticWaves.shader)
 
 <img src="images/waves.png" width="320" height="220"/> ![](images/waves.gif)
+
+## Lesson 54. Scrolling Textures 
+
+Shader code [HolisticScrollUV.shader](HolisticScrollUV.shader)
+
+<img src="images/uvscroll.png" width="320" height="220"/> ![](images/uvscroll.gif)
