@@ -6,7 +6,7 @@ Shader "Holistic/ScrollUV"
         _SecondTex ("Second Albedo (RGB)", 2D) = "white" {}
         _ScrollX ("Scroll X Speed", Range(-5, 5)) = 0
         _ScrollY ("Scroll Y Speed", Range(-5, 5)) = 0
-        _ScrollSpeedOffset ("Scroll Y Speed", Range(-5, 5)) = 0.5
+        _ScrollSpeedOffset ("Scroll Speed Offset", Range(-5, 5)) = 0.5
     }
     SubShader
     {
