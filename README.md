@@ -164,7 +164,7 @@ Shader code [HolisticScrollUV.shader](HolisticScrollUV.shader)
 
 <img src="images/uvscroll.png" width="320" height="220"/> ![](images/uvscroll.gif)
 
-## Lesson 45. Challenge 1
+## Lesson 55. Challenge 1
 
 Shader code [HolisticWaveScroll.shader](HolisticWaveScroll.shader)
 
