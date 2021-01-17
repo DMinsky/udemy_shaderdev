@@ -169,3 +169,15 @@ Shader code [HolisticScrollUV.shader](HolisticScrollUV.shader)
 Shader code [HolisticWaveScroll.shader](HolisticWaveScroll.shader)
 
 <img src="images/scroll_wave.png" width="320" height="220"/> ![](images/scroll_wave.gif)
+
+## Lesson 56. Plasma
+
+Shader code [HolisticPlasmaFrag.shader](HolisticPlasmaFrag.shader)
+
+<img src="images/plasma_frag.png" width="320" height="220"/> ![](images/plasma_frag.gif)
+
+## Lesson 57. Challenge 2
+
+Shader code [HolisticPlasmaVert.shader](HolisticPlasmaVert.shader)
+
+<img src="images/plasma_vert.png" width="320" height="220"/> ![](images/plasma_vert.gif)
